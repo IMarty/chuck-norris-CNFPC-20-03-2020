@@ -47,3 +47,7 @@ and allow the use to install the application on his device.
 
 ng add @angular/pwa in your working folder
 
+# Enable the routing on all pages
+https://stackoverflow.com/questions/51887581/angular-routing-not-working-on-netlify-on-page-refresh
+
+
